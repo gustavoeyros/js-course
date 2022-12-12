@@ -323,7 +323,7 @@ function calculateGrade(marks){
 
 
 
-// ---------- Exercise 10 Stars ------------
+// ---------- Exercise 11 Prime Numbers ------------
 
 /* showPrimes(10)
 
